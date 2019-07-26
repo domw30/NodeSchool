@@ -10,6 +10,7 @@ Each of the completed tasks for the workshops have been placed in the folders ti
 These workshoppers focus on essential skills for working with Node.js.
 
 ### javascripting
+I have used this workshop to help me learn some of the basic concepts of JavaScript by adventuring around in the terminal.
 Link to completed [JavaScripting](https://github.com/domw30/JavaScripting) workshop.
 
 ### learnyounode
