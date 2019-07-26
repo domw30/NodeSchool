@@ -12,8 +12,11 @@ These workshoppers focus on essential skills for working with Node.js.
 ### javascripting
 I have used this workshop to help me learn some of the basic concepts of JavaScript by adventuring around in the terminal.
 Link to completed [JavaScripting](https://github.com/domw30/JavaScripting) workshop.
+[Link to javascripting instructions](https://github.com/workshopper/javascripting).
+
 
 ### learnyounode
-learnyounode will run through a series of Node.js workshops. Starting at a basic "HELLO WORLD" and moving on to more advanced exercises about dealing with synchronous & asynchronous I/O, filesystem operations, TCP and HTTP networking, events and streams.
+learnyounode will run through a series of Node.js workshops. Starting at a basic "HELLO WORLD" and moving on to more advanced exercises about dealing with synchronous & asynchronous I/O, filesystem operations, TCP and HTTP networking, events and streams. 
+[Link to learnyounode instructions](https://github.com/workshopper/learnyounode).
 
 
